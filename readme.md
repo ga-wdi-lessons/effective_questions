@@ -130,9 +130,9 @@ I tried making @artist singular, I also tried changing index to show but that do
 
 ### Backticks
 
-Use ``backticks(`)`` as delimiters to display code inline. \`Like this\`. It will look `Like this`. This is useful for file names, URLs and small bits of code.
+Use backticks as delimiters to display code inline. \`Like this\`. It will look `Like this`. This is useful for file names, URLs and small bits of code.
 
-Use triple ``backticks(```)`` on either end of a code block to display block code.
+Use triple backtickets on either end of a code block to display block code.
 
 Like this...
 
@@ -142,7 +142,7 @@ def index
 end
 \`\`\`
 
-...and it will look like the below. This is useful for large, multi-line blocks of code.
+...and it will look like the below snippet. This is useful for large, multi-line blocks of code.
 
 ```ruby
 def index
