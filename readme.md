@@ -63,7 +63,7 @@ The following error is happening because in the index action for artists we have
 
 ![name_error.png](name_error.png)
 
-> Notice that as the developer we can see this error but anyone reading our question can't, unless we reference the specific error or include a screenshot.
+> Notice that as the developer, we can see this error but anyone reading our question can't unless we reference the specific error or include a screenshot.
 
 ### Good Question Model
 
